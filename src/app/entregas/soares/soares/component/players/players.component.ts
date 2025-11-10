@@ -1,9 +1,6 @@
 /**
  * COMPONENTE PLAYERS MODAL - VENTANA EMERGENTE DE JUGADORES
  * 
- * Este componente es como una "ficha del equipo" que aparece cuando
- * hacemos clic en un equipo desde la página de Teams.
- * 
  * Características importantes:
  * - NO es una página independiente (no tiene ruta propia)
  * - Es un modal (ventana emergente) que se superpone al contenido

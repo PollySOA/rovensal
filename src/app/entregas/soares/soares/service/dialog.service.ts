@@ -26,6 +26,15 @@ export interface DialogConfig {
   providedIn: 'root' // Disponible en toda la aplicación
 })
 export class DialogService {
+  //
+  // En este servicio mezclo TypeScript con HTML y Bootstrap. No es una práctica para profesionales, solo para que yo vaya entendiendolo
+  // ¿Por qué? Porque quiero crear ventanas emergentes bonitas y personalizadas desde mi código TypeScript,
+  // pero usando el diseño y los estilos que ya trae Bootstrap.
+  // Para lograrlo, genero el HTML de la ventana (modal) como un string en TypeScript,
+  // lo inserto en el DOM y luego uso las clases y componentes de Bootstrap para mostrarlo.
+  // Así, puedo controlar la lógica (cuándo mostrar, qué botones, qué mensajes) desde TypeScript,
+  // y el aspecto visual lo pone Bootstrap y el HTML generado.
+  // Es una forma práctica de aprovechar lo mejor de ambos mundos: lógica en TypeScript y diseño en Bootstrap/HTML.
 
   /**
    * MOSTRAR VENTANA DE CONFIRMACIÓN

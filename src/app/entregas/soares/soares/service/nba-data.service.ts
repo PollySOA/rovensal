@@ -1,11 +1,6 @@
 /**
  * SERVICIO DE DATOS NBA - EL "ALMACÉN" DE TODA LA INFORMACIÓN
  * 
- * Este servicio es como una base de datos simulada de la NBA.
- * Aquí guardamos y organizamos toda la información sobre:
- * - Equipos y sus jugadores
- * - Partidos y resultados
- * - Preguntas para el quiz
  * 
  * Es como tener una biblioteca NBA completa en nuestro código.
  */

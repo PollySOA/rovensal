@@ -1,16 +1,7 @@
 /**
  * COMPONENTE FOOTER - PIE DE PÁGINA
  * 
- * Este componente es como la "firma" de nuestra web NBA.
- * Aparece al final de todas las páginas y contiene información
- * institucional como derechos de autor, enlaces adicionales
- * y datos de contacto.
  * 
- * Funciones principales:
- * - Mostrar información de copyright automática (año actual)
- * - Proveer enlaces adicionales de navegación
- * - Dar credibilidad y profesionalismo a la web
- * - Mantener consistencia en todas las páginas
  */
 
 import { Component } from '@angular/core';
@@ -25,7 +16,6 @@ import { RouterModule } from '@angular/router';
   styleUrl: './footer.component.css'      // Su archivo de estilos
 })
 export class FooterComponent {
-  // Año actual calculado automáticamente para el copyright
   // Se actualiza solo cada año sin tocar código
   currentYear = new Date().getFullYear();
 }

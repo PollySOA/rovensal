@@ -1,14 +1,6 @@
 /**
  * COMPONENTE TEAMS - PÁGINA DE EQUIPOS NBA
  * 
- * Este componente es como una "guía telefónica" de todos los equipos de la NBA.
- * Muestra información completa de los 30 equipos divididos en sus conferencias.
- * 
- * Funciones principales:
- * - Mostrar todos los equipos organizados por conferencia (Este y Oeste)
- * - Mostrar información básica: nombre, ciudad, campeonatos, etc.
- * - Permitir ver los jugadores de cada equipo en una ventana emergente
- * - Manejar estados de carga y errores de manera amigable
  */
 
 import { Component, OnInit } from '@angular/core';

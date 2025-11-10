@@ -1,10 +1,6 @@
 /**
  * COMPONENTE STATISTICS - PÁGINA DE ESTADÍSTICAS NBA
  * 
- * Este componente es como una "hoja de estadísticas" deportiva.
- * Muestra los números más importantes de los jugadores NBA:
- * puntos, asistencias y rebotes por partido.
- * 
  * Funciones principales:
  * - Mostrar rankings de mejores jugadores por categoría
  * - Permitir alternar entre diferentes estadísticas

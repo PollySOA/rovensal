@@ -1,13 +1,6 @@
 /**
  * COMPONENTE VOTE SIMPLE - SISTEMA DE VOTACIÓN AVANZADO CON ASYNC/AWAIT
  * 
- * Este componente demuestra un sistema de votación completo y profesional
- * para jugadores de la NBA. Incluye todas las mejores prácticas de Angular:
- * - Async/await en lugar de callbacks complicados
- * - Diálogos elegantes en lugar de alert() básicos
- * - Tipado fuerte para evitar errores
- * - Interfaz de usuario interactiva y moderna
- * - Gestión de estados de carga y errores
  * 
  * Es como un "sistema de votación real" que podrías ver en el sitio oficial de la NBA
  */

@@ -1,10 +1,7 @@
 /**
  * COMPONENTE RANKING - PÁGINA DE VOTACIÓN TOP 10 NBA
  * 
- * Este componente es como una "encuesta de popularidad" de jugadores NBA.
- * Los usuarios pueden votar por sus jugadores favoritos y ver quién
- * va ganando en tiempo real.
- * 
+ *
  * Funciones principales:
  * - Mostrar los 10 mejores jugadores NBA actuales con fotos reales
  * - Permitir votar por el jugador favorito

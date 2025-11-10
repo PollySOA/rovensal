@@ -1,8 +1,6 @@
 /**
  * COMPONENTE HOME - LA PÁGINA PRINCIPAL DE NUESTRA WEB NBA
  * 
- * Este componente es como la "portada" de una revista deportiva.
- * Es lo primero que ven los visitantes cuando entran a nuestra web.
  * 
  * Funciones principales:
  * - Mostrar un mensaje de bienvenida atractivo

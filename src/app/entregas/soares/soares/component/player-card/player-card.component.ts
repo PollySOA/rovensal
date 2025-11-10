@@ -1,8 +1,6 @@
 /**
  * COMPONENTE PLAYER CARD - TARJETA DE JUGADOR PARA VOTACIÓN
  * 
- * Este componente es como una "carta de colección digital" que muestra
- * la información de un jugador de manera atractiva y permite votar por él.
  * Es una tarjeta simple pero elegante que se usa en el sistema de votación.
  * 
  * Funciones principales:
